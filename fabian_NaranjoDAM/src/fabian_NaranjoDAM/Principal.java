@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Apéndice de método generado automáticamente
 		System.out.println("Esta es la primera línea que se muestra por pantalla");
 		System.out.println("Y esta es la segunda línea que se muestra por pantalla");
+
 	}
 
 }
